@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ahmad Zuli (ずぃ)
+title: Ahmad Zuli
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,15 +52,15 @@ social:
     icon_pack: fab
     link: https://instagram.com/zuliamrullah
 # Uncomment below for Github link
-- icon: github
- icon_pack: fab
- link: https://github.com/zulyazqall
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/zulyazqall
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
