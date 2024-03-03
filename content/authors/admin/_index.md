@@ -51,7 +51,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/zuliamrullah
-# Uncomment below for Github link
+  # Uncomment below for Github link
   - icon: github
   icon_pack: fab
   link: https://github.com/zulyazqall
