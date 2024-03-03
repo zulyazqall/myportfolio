@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Arunika
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-a
     location: Indonesia
     date_start: '2021-01-01'
     date_end: ''
