@@ -30,10 +30,8 @@ content:
       tag: '*'
     - name: Mobile App
       tag: MA
-    - name: Web Development
-      tag: WD
-    - name: NLP
-      tag: NLP
+    - name: Artificail Intelligence
+      tag: AI
 
 design:
   columns: '1'
