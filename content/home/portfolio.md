@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Mobile App
       tag: MA
-    - name: Artificail Intelligence
+    - name: Artificial Intelligence
       tag: AI
 
 design:
