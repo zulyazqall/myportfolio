@@ -44,13 +44,13 @@ bio: My research interests include natural language processing, mobile computing
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:zulyazqall@gmail.com
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/ulibolet
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/zuliamrullah
+  # - icon: instagram
+  #  icon_pack: fab
+  #  link: https://instagram.com/zuliamrullah
   - icon: linkedin
     icon_pack: fab
     link: https://instagram.com/zuliamrullah
